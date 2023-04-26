@@ -1,18 +1,18 @@
 # Progetto Finale API 2022 - WordChecker
-• L'obiettivo del progetto di quest'anno è di realizzare un sistema che,
+#• L'obiettivo del progetto di quest'anno è di realizzare un sistema che,
 al suo cuore, controlla la corrispondenza tra le lettere di 2 parole di
 ugual lunghezza.
-• Le parole sono intese come sequenze di simboli che possono essere
+#• Le parole sono intese come sequenze di simboli che possono essere
 caratteri alfabetici minuscoli (a-z) o maiuscoli (A-Z), cifre numeriche
 (0-9), oppure i simboli - (trattino) e _ ("underscore")
-• esempio di parola di 20 simboli: djHD1af9fj7g__l-ssOP
-• Il sistema legge da standard input una sequenza di informazioni e
+#• esempio di parola di 20 simboli: djHD1af9fj7g__l-ssOP
+#• Il sistema legge da standard input una sequenza di informazioni e
 istruzioni, e produce delle stringhe in output a seconda dei casi.
-• Più precisamente, il sistema legge:
-• un valore k, che indica la lunghezza delle parole
-• una sequenza (di lunghezza arbitraria) di parole, ognuna di lunghezza k, che
+#• Più precisamente, il sistema legge:
+#• un valore k, che indica la lunghezza delle parole
+#• una sequenza (di lunghezza arbitraria) di parole, ognuna di lunghezza k, che
 costituisce l'insieme delle parole ammissibili
-• si dia pure per scontato che la sequenza di parole non contenga duplicati
+#• si dia pure per scontato che la sequenza di parole non contenga duplicati
 • A quel punto, viene letta da standard input una sequenza di "partite",
 in cui l'inizio di ogni nuova partita è marcato dal comando (letto
 sempre da input) +nuova_partita
